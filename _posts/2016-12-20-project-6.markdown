@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: aquila.png
+alt: image-alt
+project-date: March 2016
+client: Me
+category: Logo
+description: 
+
+---

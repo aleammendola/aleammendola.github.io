@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: yammlogo.png
+alt: image-alt
+project-date: March 2016
+client: The Heptacores
+category: Logo
+description: 
+
+---

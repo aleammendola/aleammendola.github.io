@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2017-05-15
+img: yamm.png
+alt: image-alt
+project-date: May 2017
+client: The Heptacores
+category: App Layout
+description: 
+
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-15
+img: LogoLRDM.png
+alt: image-alt
+project-date: December 2016
+client: Lo Regio Di Maio Autotrasporti
+category: Logo
+description: This logo was created for an italian transport company, I tried to recall the italian flag and the road strips inserting them in a tire 
+
+---
