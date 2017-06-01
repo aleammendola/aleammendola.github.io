@@ -39,16 +39,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/Ale_Ammendola
   - title: facebook
     url: https://www.facebook.com/ale.ammendola
-  - title: stack-overflow
-    url: http://stackoverflow.com
-  - title: bitbucket
-    url: http://bitbucket.org
   - title: github
     url: http://github.com/aleammendola
+  - title: linkedin
+    url: https://it.linkedin.com/in/alessandro-ammendola-6bb777143
 
 # Postal address (add as many lines as necessary)
 address:
